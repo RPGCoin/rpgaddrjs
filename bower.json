@@ -1,0 +1,30 @@
+{
+  "name": "rpgaddrjs",
+  "description": "Rpgcoin general purpose address translation.",
+  "main": "src/rpgaddr.js",
+  "authors": [
+    "Silence <silence@rpgcoin.gg>",
+    "Emilio Almansi <hi@ealmansi.com>",
+    "MSFTserver"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "rpgcoin",
+    "rpgcoin",
+    "rpg",
+    "cryptocurrency",
+    "address",
+    "encoding",
+    "translation",
+    "base58",
+    "rpg-address"
+  ],
+  "homepage": "https://github.com/RPGCoin/rpgaddrjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
